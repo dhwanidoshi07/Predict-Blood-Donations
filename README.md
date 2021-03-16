@@ -16,3 +16,6 @@ The data is stored in datasets/transfusion.data and it is structured according t
 9) Log Normalization
 10) Training the logistic regression model
 11) Conclusion
+
+
+via DataCamp
